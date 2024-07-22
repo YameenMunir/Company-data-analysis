@@ -13,7 +13,6 @@ This repository contains an analysis of corporate revenue data to identify trend
 - [Conclusion](#conclusion)
 - [Contributing](#contributing)
 - [License](#license)
-- [Acknowledgements](#acknowledgements)
 
 ## Introduction
 
